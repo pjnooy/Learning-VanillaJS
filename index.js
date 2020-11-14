@@ -1,3 +1,15 @@
-let a = 99;
-let b = a - 9;
-console.log(b)
+/*
+const what = "Jipyung"
+console.log(what);
+*/
+/*
+Boolean
+const wat = true;
+*/
+/*
+Number
+const wat = true;
+*/
+/* Float
+const wat = 55.1;
+*/
